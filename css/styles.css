@@ -1,0 +1,31 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+}
+
+.qr-component {
+    width: 19.375rem;
+    height: 30.1875rem;
+    background-color: hsl(0, 0%, 100%);
+    margin: 6.25rem auto ;
+    border-radius: 0.9375rem;
+}
+img {
+    width: 17.6875rem;
+    border-radius: 0.9375rem;
+    margin: 0.75rem;
+}
+h2 {
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    width: 16.25rem;
+    margin: auto;
+
+}
+p {
+    color :hsl(220, 15%, 55%);
+    font-weight: 400;
+    width: 16.25rem;
+    margin: 1.25rem auto;
+}

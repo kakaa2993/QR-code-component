@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Live Site URL : [https://kakaa2993.github.io/QR-code-component/]
 - Solution URL : [https://github.com/kakaa2993/QR-code-component/]
 
-## My process
+## My Process
 
 ### Built With
 
@@ -36,7 +36,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Mobile-first workflow
 
 
-### What I learned
+### What I Learned
 
 Very easy project for someone who recently stepped in the world of development! The only issue I had was the height of flex container as it looked different in Safari. So I changed approach a little bit - that's why I had many changes in this simple project.
 
